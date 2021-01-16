@@ -1,0 +1,1 @@
+[{"erro":"com.sun.xml.internal.ws.fault.ServerSOAPFaultException: Client received SOAP Fault from server: nested fault: servicosinternos.saude.gov:80: timeout while waiting for read\n             Please see the server log to find more detail regarding exact cause of the failure."}]
