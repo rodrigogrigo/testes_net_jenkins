@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DataSources\" />
+    <Folder Include="Interfaces\Cadastro\" />
+    <Folder Include="Interfaces\E-SUS\" />
+    <Folder Include="Models\Cadastro\" />
+    <Folder Include="Models\E-SUS\" />
+    <Folder Include="Models\Endemias\" />
+    <Folder Include="Reports\Cadastro\" />
+    <Folder Include="Reports\E-SUS\" />
+    <Folder Include="Reports\Endemias\" />
+  </ItemGroup>
+
+</Project>
